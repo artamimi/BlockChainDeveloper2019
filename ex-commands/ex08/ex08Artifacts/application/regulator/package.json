@@ -14,7 +14,7 @@
     "fabric-ca-client": "^1.4.1",
     "fabric-network": "^1.4.1",
     "fs": "0.0.1-security",
-    "mocha": "^6.1.4",
+    "mocha": "^10.1.0",
     "path": "^0.12.7",
     "pm2": "^3.5.1",
     "supertest": "^4.0.2",
